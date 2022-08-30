@@ -6,16 +6,11 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️One', true],
-  ['6282195322106', '️Two', true],
-  ['6282195322106', '️Three', true],
-  ['6282195322106', '️Four', true],
-  ['6282195322106', '️Five', true],
-  ['6282195322106', '️Six', true],
-  ['6282195322106', '️Seven', true],
-  ['6282195322106', '️Eight', true],
-  ['6282195322106', '️Nine', true],
-  ['6282195322106', '️Teen', true]
+  ['6282112080081', '️One', true],
+  ['6282112080081', '️Two', true],
+  ['6282112080081', '️Three', true],
+  ['6282112080081', '️Four', true],
+  ['6282112080081', '️Five', true]
 ]
 global.mods = []
 global.prems = []
@@ -78,8 +73,8 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
+global.nomorbot = '6283825121214'
+global.nomorown = '6282112080081'
 global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
@@ -429,8 +424,8 @@ global.htjava = '⫹⫺'
 /*Watermark*/
 global.stickpack = '.'
 global.stickauth = `☂︎ ʜɪɴᴀᴛᴀ-ʙᴏᴛ\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁'
+global.packname = 'IG admin_kyouka'
+global.author = '𝗛𝗶𝗻𝗮𝘁𝗮 乂 Kyouka'
 global.multiplier = 10
 
 /*Pesan*/
@@ -442,18 +437,18 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/wudysoft'
-global.dana = '0887435373103'
-global.pulsa = '082195322106'
+global.saweria = 'https://saweria.co/NekoYuri'
+global.dana = '083825121214'
+global.pulsa = '083825121214'
 global.trakteer = 'https://trakteer.id/wudysoft'
-global.paypal = 'wudysoft@mail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.paypal = 'ga ada'
+global.gopay = '083825121214'
+global.pdana = '083825121214'
+global.povo = '083825121214'
+global.pgopay = '083825121214'
+global.ppulsa = '083825121214'
+global.ppulsa2 = '083825121214'
+global.psaweria = 'https://saweria.com/YuriNeko'
 
 /*Emoji*/
 global.rpg = {
