@@ -6,11 +6,11 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282112080081', '️One', true],
-  ['6282112080081', '️Two', true],
-  ['6282112080081', '️Three', true],
-  ['6282112080081', '️Four', true],
-  ['6282112080081', '️Five', true]
+  ['62895627514070', '️One', true],
+  ['62895627514070', '️Two', true],
+  ['62895627514070', '️Three', true],
+  ['62895627514070', '️Four', true],
+  ['62895627514070', '️Five', true]
 ]
 global.mods = []
 global.prems = []
@@ -74,14 +74,14 @@ global.xckey = 'BOhjM2hUVn'
 
 /*Number*/
 global.nomorbot = '6283825121214'
-global.nomorown = '6282112080081'
-global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.nomorown = '62895627514070'
+global.namebot = 'ʟᴜᴍɪɴᴏᴜs-ʙᴏᴛ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 ʜɪɴᴀᴛᴀ-ʙᴏᴛ あ⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.wm = 'ʟᴜᴍɪɴᴏᴜs-ᴍᴅ'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ𝔩𝔲𝔪𝔦𝔫𝔬𝔲𝔰˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '♧︎︎︎ʟᴜᴍɪɴᴏᴜs-ʙᴏᴛ'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -402,7 +402,7 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*Hiasan*/
 global.dmenut = '❏─┅──┅〈'
-global.dmenub = '┊•'
+global.dmenub = '┊𖠌'
 global.dmenub2 = '┊'
 global.dmenuf = '┗┅────────┅✦'
 
@@ -410,10 +410,10 @@ global.dmenuf = '┗┅────────┅✦'
 global.dashmenu = '┅────┅─❏ *𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃* ❏─┅────┅'
 global.cmenut = '❏┅────┅『'
 global.cmenuh = '』┅────┅'
-global.cmenub = '┊✦ '
+global.cmenub = '┊♧︎︎︎ '
 global.cmenuf = '┗──┅───────┅๑\n'
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
-global.pmenus = '✦'
+global.pmenus = '☯︎'
 
 global.htki = '┅────┅『'
 global.htka = '』┅────┅'
@@ -423,9 +423,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ ʜɪɴᴀᴛᴀ-ʙᴏᴛ\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
-global.packname = 'IG admin_kyouka'
-global.author = '𝗛𝗶𝗻𝗮𝘁𝗮 乂 Kyouka'
+global.stickauth = `☂︎ ʟᴜᴍɪɴᴏᴜs-ʙᴏᴛ\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.packname = 'ʟᴜᴍɪɴᴏᴜs-ᴍᴅ ʙʏ'
+global.author = 'ʜᴀɴ ᴋᴏɴᴛᴋ ᴏᴡɴᴇʀ [62895727514070]'
 global.multiplier = 10
 
 /*Pesan*/
