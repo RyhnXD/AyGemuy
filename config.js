@@ -378,7 +378,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 /*Link*/
 global.sig = 'https://www.instagram.com/notifikasi_pemberitahuan'
 global.sgh = 'https://www.github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI'
+global.sgc = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2'
 global.sdc = 'https://www.discord.com/wudysoft'
 global.snh = 'https://www.tiktok.com/@upload_file'
 global.sfb = 'https://www.facebook.com/'
@@ -432,9 +432,9 @@ global.multiplier = 10
 global.eror = '*ᴇʀᴏʀʀ!*'
 global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
-global.webs = 'https://s.id/Cerdasin62'
+global.webs = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2'
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
+global.gcwangsaf = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/NekoYuri'
