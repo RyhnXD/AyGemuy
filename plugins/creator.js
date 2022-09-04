@@ -6,19 +6,19 @@ let name = await conn.getName(who)
 
 
 if (command == 'owner') {
- let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:WhatsApp;Kyouka Hashiba Owner;Hinata;;Md\nFN:Kyouka Hashiba Owner Hinata, Md\nNICKNAME:👑 Owner Hinata Bot\nORG:Kyouka\nTITLE:hashiba\nitem1.TEL;waid=6282112080081:+62 821-1208-0081\nitem1.X-ABLabel:📞 Nomor Owner\nitem2.URL:https://kyouka-website.vercel.app/\nitem2.X-ABLabel:💬 More\nitem3.EMAIL;type=INTERNET:gaadaemailpribadi@gmail.com\nitem3.X-ABLabel:💌 Mail Owner HinataBot\nitem4.ADR:;;🇮🇩 Indonesia;;;;\nitem4.X-ABADR:💬 More\nitem4.X-ABLabel:📍 Lokasi Saya\nBDAY;value=date:🔖 16 Tahun\nEND:VCARD`
+ let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:WhatsApp;Kyouka Hashiba Owner;Hinata;;Md\nFN:Kyouka Hashiba Owner Hinata, Md\nNICKNAME:👑 Owner Hinata Bot\nORG:Kyouka\nTITLE:hashiba\nitem1.TEL;waid=62895627514070:+62 895-6275-14070\nitem1.X-ABLabel:📞 Nomor Owner\nitem2.URL:https://kyouka-website.vercel.app/\nitem2.X-ABLabel:💬 More\nitem3.EMAIL;type=INTERNET:gaadaemailpribadi@gmail.com\nitem3.X-ABLabel:💌 Mail Owner HinataBot\nitem4.ADR:;;🇮🇩 Indonesia;;;;\nitem4.X-ABADR:💬 More\nitem4.X-ABLabel:📍 Lokasi Saya\nBDAY;value=date:🔖 16 Tahun\nEND:VCARD`
 const tag_own = await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard }] }}, { quoted: fliveLoc })
 let caption = `👋 Hai *${name} @${who.split("@")[0]}*, Nih Owner *${conn.user.name}* kak`
     await conn.sendButton(m.chat, caption, author, null, [['🎀 Sapa Owner', 'Huuu']], m, { quoted: tag_own, mentions: conn.parseMention(caption) })
 }
 if (command == 'pengembang') {
-  let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;${author};;;\nFN:${author}\nORG:${author}\nTITLE:\nitem1.TEL;waid=6282195322106:+62 821-9532-2106\nitem1.X-ABLabel:${author}\nX-WA-BIZ-DESCRIPTION:${htjava} Nih pengembang ku kack yg mengaktifkan aq.\nX-WA-BIZ-NAME:${author}\nEND:VCARD`
+  let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;${author};;;\nFN:${author}\nORG:${author}\nTITLE:\nitem1.TEL;waid=62895627514070:+62 895-6275-14070\nitem1.X-ABLabel:${author}\nX-WA-BIZ-DESCRIPTION:${htjava} Nih pengembang ku kack yg mengaktifkan bot ini.\nX-WA-BIZ-NAME:${author}\nEND:VCARD`
 await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard }] }}, { quoted: fgif })
 }
 if (command == 'creator') {
   try {
   const sentMsg = await conn.sendContactArray(m.chat, [
-    [`${nomorown}`, `${await conn.getName(nomorown+'@s.whatsapp.net')}`, `👑 Developer Bot `, `🚫 Don't call me 🥺`, `wudysoft@gmail.com`, `🇮🇩 Indonesia`, `🚀 https://aygemuy.github.io/`, `👤 Gada pawang nih senggol dong 😔`],
+    [`${nomorown}`, `${await conn.getName(nomorown+'@s.whatsapp.net')}`, `👑 Developer Bot `, `🚫 Don't call me 🥺`, `wudysoft@gmail.com`, `🇮🇩 Indonesia`, `🚀 RyhnXD`, `bimlek`],
     [`${conn.user.jid.split('@')[0]}`, `${await conn.getName(conn.user.jid)}`, `🔥 Bot WhatsApp 🐣`, `📵 Don't spam/call me 😢`, `Nothing`, `🇮🇩 Indonesia`, `🚀 https://s.id/Cerdasin62/`, `🤖 Hanya bot biasa yang kadang suka eror ☺`]
   ], fkontak)
   await conn.reply(m.chat, `Halo kak @${m.sender.split(`@`)[0]} itu nomor ownerku , jangan di spam ya ka😉`, sentMsg, {mentions: [m.sender]})
