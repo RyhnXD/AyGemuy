@@ -433,7 +433,7 @@ global.eror = '*ᴇʀᴏʀʀ!*'
 global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
 global.webs = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2'
-global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
+global.logo = 'https://telegra.ph/file/026e41397699554c83896.jpg'
 global.gcwangsaf = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2'
 
 /*Donasi*/
